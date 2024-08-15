@@ -1,0 +1,11 @@
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\bin\Debug\net6.0\CL.deps.json
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\bin\Debug\net6.0\CL.dll
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\bin\Debug\net6.0\CL.pdb
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\obj\Debug\net6.0\CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\obj\Debug\net6.0\CL.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\obj\Debug\net6.0\CL.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\obj\Debug\net6.0\CL.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\obj\Debug\net6.0\CL.dll
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\obj\Debug\net6.0\refint\CL.dll
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\obj\Debug\net6.0\CL.pdb
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\CL\obj\Debug\net6.0\ref\CL.dll

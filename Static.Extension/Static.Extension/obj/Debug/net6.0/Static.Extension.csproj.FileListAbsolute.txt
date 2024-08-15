@@ -1,0 +1,14 @@
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\bin\Debug\net6.0\Static.Extension.exe
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\bin\Debug\net6.0\Static.Extension.deps.json
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\bin\Debug\net6.0\Static.Extension.runtimeconfig.json
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\bin\Debug\net6.0\Static.Extension.dll
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\bin\Debug\net6.0\Static.Extension.pdb
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\Static.Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\Static.Extension.AssemblyInfoInputs.cache
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\Static.Extension.AssemblyInfo.cs
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\Static.Extension.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\Static.Extension.dll
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\refint\Static.Extension.dll
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\Static.Extension.pdb
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\Static.Extension.genruntimeconfig.cache
+C:\Users\Ülvi\source\repos\Static.Extension\Static.Extension\obj\Debug\net6.0\ref\Static.Extension.dll

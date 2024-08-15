@@ -1,0 +1,5 @@
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\Dll_NameSpace\obj\Debug\net6.0\Dll_NameSpace.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\Dll_NameSpace\obj\Debug\net6.0\Dll_NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\Dll_NameSpace\obj\Debug\net6.0\Dll_NameSpace.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\Dll_NameSpace\obj\Debug\net6.0\Dll_NameSpace.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\BP102\Dll_NameSpace\Dll_NameSpace\obj\Debug\net6.0\Dll_NameSpace.csproj.CoreCompileInputs.cache
