@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Dll_NameSpace\\",
+  "WorkspaceRootPath": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9933B27E-FCDD-433A-AB44-17D484D8473B}|Dll_NameSpace\\Dll_NameSpace.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\dll_namespace\\dll_namespace\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9933B27E-FCDD-433A-AB44-17D484D8473B}|Dll_NameSpace\\Dll_NameSpace.csproj|solutionrelative:dll_namespace\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2079623-1D51-48A5-8842-8E73849E5FF3}|Models\\Models.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\statichomework\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2079623-1D51-48A5-8842-8E73849E5FF3}|Models\\Models.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9933B27E-FCDD-433A-AB44-17D484D8473B}|Dll_NameSpace\\Dll_NameSpace.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\dll_namespace\\dll_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9933B27E-FCDD-433A-AB44-17D484D8473B}|Dll_NameSpace\\Dll_NameSpace.csproj|solutionrelative:dll_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B49CE2AD-9929-4C29-B597-35DD2F2F5BBE}|StaticHomework\\StaticHomework.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\statichomework\\statichomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49CE2AD-9929-4C29-B597-35DD2F2F5BBE}|StaticHomework\\StaticHomework.csproj|solutionrelative:statichomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,26 +56,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Dll_NameSpace\\Dll_NameSpace\\Person.cs",
-              "RelativeDocumentMoniker": "Dll_NameSpace\\Person.cs",
-              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Dll_NameSpace\\Dll_NameSpace\\Person.cs*",
-              "RelativeToolTip": "Dll_NameSpace\\Person.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T05:37:21.049Z",
+              "WhenOpened": "2024-08-16T07:20:06.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Dll_NameSpace\\Dll_NameSpace\\Program.cs",
-              "RelativeDocumentMoniker": "Dll_NameSpace\\Program.cs",
-              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Dll_NameSpace\\Dll_NameSpace\\Program.cs",
-              "RelativeToolTip": "Dll_NameSpace\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\StaticHomework\\Program.cs",
+              "RelativeDocumentMoniker": "StaticHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\StaticHomework\\Program.cs",
+              "RelativeToolTip": "StaticHomework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T06:18:02.92Z",
+              "WhenOpened": "2024-08-16T07:18:59.297Z",
               "EditorCaption": ""
             }
           ]
