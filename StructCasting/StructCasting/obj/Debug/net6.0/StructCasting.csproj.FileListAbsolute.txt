@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\StructCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\StructCasting.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\StructCasting.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\StructCasting.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\StructCasting.sourcelink.json
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\bin\Debug\net6.0\StructCasting.exe
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\bin\Debug\net6.0\StructCasting.deps.json
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\bin\Debug\net6.0\StructCasting.runtimeconfig.json
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\bin\Debug\net6.0\StructCasting.dll
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\bin\Debug\net6.0\StructCasting.pdb
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\StructCasting.dll
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\refint\StructCasting.dll
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\StructCasting.pdb
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\StructCasting.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\BP102\StructCasting\StructCasting\obj\Debug\net6.0\ref\StructCasting.dll
