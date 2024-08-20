@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\AbstractInterface\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{655ACF50-95DB-4290-A381-250FB4FF3329}|AbstractInterface\\AbstractInterface.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\abstractinterface\\abstractinterface\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655ACF50-95DB-4290-A381-250FB4FF3329}|AbstractInterface\\AbstractInterface.csproj|solutionrelative:abstractinterface\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655ACF50-95DB-4290-A381-250FB4FF3329}|AbstractInterface\\AbstractInterface.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\abstractinterface\\abstractinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655ACF50-95DB-4290-A381-250FB4FF3329}|AbstractInterface\\AbstractInterface.csproj|solutionrelative:abstractinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{655ACF50-95DB-4290-A381-250FB4FF3329}|AbstractInterface\\AbstractInterface.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\abstractinterface\\abstractinterface\\emlpoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{655ACF50-95DB-4290-A381-250FB4FF3329}|AbstractInterface\\AbstractInterface.csproj|solutionrelative:abstractinterface\\emlpoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,16 +58,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\AbstractInterface\\AbstractInterface\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\AbstractInterface\\AbstractInterface\\Program.cs",
+              "RelativeToolTip": "AbstractInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:00:23.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\AbstractInterface\\AbstractInterface\\Animal.cs",
+              "RelativeDocumentMoniker": "AbstractInterface\\Animal.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\AbstractInterface\\AbstractInterface\\Animal.cs",
+              "RelativeToolTip": "AbstractInterface\\Animal.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:59:50.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Emlpoyee.cs",
               "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\AbstractInterface\\AbstractInterface\\Emlpoyee.cs",
               "RelativeDocumentMoniker": "AbstractInterface\\Emlpoyee.cs",
               "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\AbstractInterface\\AbstractInterface\\Emlpoyee.cs",
               "RelativeToolTip": "AbstractInterface\\Emlpoyee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T07:12:49.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T07:12:49.079Z"
             }
           ]
         },

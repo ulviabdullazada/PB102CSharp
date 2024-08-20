@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2079623-1D51-48A5-8842-8E73849E5FF3}|Models\\Models.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\statichomework\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2079623-1D51-48A5-8842-8E73849E5FF3}|Models\\Models.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B49CE2AD-9929-4C29-B597-35DD2F2F5BBE}|StaticHomework\\StaticHomework.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\statichomework\\statichomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B49CE2AD-9929-4C29-B597-35DD2F2F5BBE}|StaticHomework\\StaticHomework.csproj|solutionrelative:statichomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -55,25 +51,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\Models\\Person.cs",
-              "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T07:20:06.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\StaticHomework\\Program.cs",
               "RelativeDocumentMoniker": "StaticHomework\\Program.cs",
               "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\StaticHomework\\StaticHomework\\Program.cs",
               "RelativeToolTip": "StaticHomework\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T07:18:59.297Z",
               "EditorCaption": ""

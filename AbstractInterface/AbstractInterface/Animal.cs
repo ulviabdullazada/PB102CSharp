@@ -1,5 +1,5 @@
 ﻿namespace AbstractInterface;
-abstract class Animal : Object
+abstract class Animal
 {
     public abstract void Eat();
 }
@@ -90,15 +90,19 @@ class Duck : Bird, ISwim
     }
 }
 
-class Sparrow : Bird
+class Parrot : Bird
 {
-    public Sparrow(string name) : base(name)
+    public Parrot(string name) : base(name)
     {
     }
 
     public override void Eat()
     {
         Console.WriteLine("Sparrow eating wheat");
+    }
+    public void Talk()
+    {
+        Console.WriteLine("Saaalaaam");
     }
 }
 
