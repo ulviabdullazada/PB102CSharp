@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\IndexerGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\IndexerGeneric.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\IndexerGeneric.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\IndexerGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\IndexerGeneric.sourcelink.json
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\bin\Debug\net6.0\IndexerGeneric.exe
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\bin\Debug\net6.0\IndexerGeneric.deps.json
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\bin\Debug\net6.0\IndexerGeneric.runtimeconfig.json
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\bin\Debug\net6.0\IndexerGeneric.dll
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\bin\Debug\net6.0\IndexerGeneric.pdb
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\IndexerGeneric.dll
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\refint\IndexerGeneric.dll
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\IndexerGeneric.pdb
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\IndexerGeneric.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\BP102\IndexerGeneric\IndexerGeneric\obj\Debug\net6.0\ref\IndexerGeneric.dll

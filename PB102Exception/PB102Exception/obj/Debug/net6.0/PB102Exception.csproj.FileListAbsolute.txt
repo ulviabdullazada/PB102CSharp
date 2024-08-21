@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\bin\Debug\net6.0\PB102Exception.exe
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\bin\Debug\net6.0\PB102Exception.deps.json
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\bin\Debug\net6.0\PB102Exception.runtimeconfig.json
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\bin\Debug\net6.0\PB102Exception.dll
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\bin\Debug\net6.0\PB102Exception.pdb
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\PB102Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\PB102Exception.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\PB102Exception.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\PB102Exception.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\PB102Exception.sourcelink.json
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\PB102Exception.dll
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\refint\PB102Exception.dll
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\PB102Exception.pdb
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\PB102Exception.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\BP102\PB102Exception\PB102Exception\obj\Debug\net6.0\ref\PB102Exception.dll
