@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|solutionrelative:indexergeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\indexergeneric\\indexergeneric\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|solutionrelative:indexergeneric\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\indexergeneric\\indexergeneric\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|solutionrelative:indexergeneric\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\indexergeneric\\indexergeneric\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|solutionrelative:indexergeneric\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\indexergeneric\\indexergeneric\\intlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC094207-1775-4658-8FBC-F096D092B98A}|IndexerGeneric\\IndexerGeneric.csproj|solutionrelative:indexergeneric\\intlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,27 +59,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\Student.cs",
-              "RelativeDocumentMoniker": "IndexerGeneric\\Student.cs",
-              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\Student.cs",
-              "RelativeToolTip": "IndexerGeneric\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Title": "IntList.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\IntList.cs",
+              "RelativeDocumentMoniker": "IndexerGeneric\\IntList.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\IntList.cs",
+              "RelativeToolTip": "IndexerGeneric\\IntList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:15:11.224Z",
+              "WhenOpened": "2024-08-22T07:32:04.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\Group.cs",
-              "RelativeDocumentMoniker": "IndexerGeneric\\Group.cs",
-              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\Group.cs",
-              "RelativeToolTip": "IndexerGeneric\\Group.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAgwCIAAAAbAAAA",
+              "Title": "GenericList.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\GenericList.cs",
+              "RelativeDocumentMoniker": "IndexerGeneric\\GenericList.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\GenericList.cs",
+              "RelativeToolTip": "IndexerGeneric\\GenericList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:15:03.839Z",
+              "WhenOpened": "2024-08-22T07:31:55.646Z",
               "EditorCaption": ""
             },
             {
@@ -90,7 +90,7 @@
               "RelativeDocumentMoniker": "IndexerGeneric\\Program.cs",
               "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\IndexerGeneric\\IndexerGeneric\\Program.cs",
               "RelativeToolTip": "IndexerGeneric\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T07:14:08.151Z",
               "EditorCaption": ""

@@ -6,18 +6,9 @@ using System.Threading.Tasks;
 
 namespace IndexerGeneric
 {
-    internal class Student : IPerson
+    interface IPerson
     {
-        public Guid Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
-        public Student()
-        {
-            Id = Guid.NewGuid();
-        }
-        public override string ToString()
-        {
-            return Name;
-        }
     }
 }
