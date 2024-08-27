@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\bin\Debug\net6.0\Delegate.exe
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\bin\Debug\net6.0\Delegate.deps.json
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\bin\Debug\net6.0\Delegate.dll
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\bin\Debug\net6.0\Delegate.pdb
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\Delegate.sourcelink.json
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\Delegate.dll
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\Delegate.pdb
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\BP102\Delegate\Delegate\obj\Debug\net6.0\ref\Delegate.dll
