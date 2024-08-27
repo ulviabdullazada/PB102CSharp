@@ -166,3 +166,19 @@ using System.Reflection;
 //int? number = null;
 //Console.WriteLine(number ?? 20);
 #endregion
+
+#region Task
+List<Exam> exams = new List<Exam>();
+exams.Add(new Exam("Nargiz",70,"Proqramlashdirma",new DateTime(2024,08,27, 09,00,00), new DateTime(2024, 08, 27, 12, 13, 17)));
+exams.Add(new Exam("Samir", 100, "Proqramlashdirma", new DateTime(2024, 08, 27, 09, 00, 00), new DateTime(2024, 08, 27, 09, 13, 21)));
+exams.Add(new Exam("Tarxan", 21, "Proqramlashdirma", new DateTime(2024, 08, 27, 09, 00, 00), new DateTime(2024, 08, 27, 09, 00, 2)));
+exams.Add(new Exam("Nihat", 75, "Proqramlashdirma", new DateTime(2024, 08, 27, 09, 00, 00), new DateTime(2024, 08, 27, 11, 13, 58)));
+exams.Add(new Exam("Elshad", 101, "Proqramlashdirma", new DateTime(2024, 08, 27, 09, 00, 00), new DateTime(2024, 08, 27, 15, 13, 00)));
+
+//1.
+//exams.FindAll(x => x.Point >= 50).ForEach(x => Console.WriteLine($"{x.StudentName} {x.Subject} {x.Point} {x.EndDate - x.StartDate}"));
+
+//exams.FindAll(x => x.StartDate >= DateTime.Now.AddDays(-7)).Print();
+
+exams.FindAll(x => (x.EndDate - x.StartDate).TotalMinutes >= 60).Print();
+#endregion

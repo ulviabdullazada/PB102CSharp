@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\delegate\\delegate\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|solutionrelative:delegate\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\delegate\\delegate\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|solutionrelative:delegate\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\delegate\\delegate\\calcdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|solutionrelative:delegate\\calcdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|c:\\users\\\u00FClvi\\desktop\\bp102\\delegate\\delegate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45DF2EA0-4FBB-4933-9BC9-B4554820331A}|Delegate\\Delegate.csproj|solutionrelative:delegate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,39 +58,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\Student.cs",
-              "RelativeDocumentMoniker": "Delegate\\Student.cs",
-              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\Student.cs",
-              "RelativeToolTip": "Delegate\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T06:29:17.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalcDelegate.cs",
-              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\CalcDelegate.cs",
-              "RelativeDocumentMoniker": "Delegate\\CalcDelegate.cs",
-              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\CalcDelegate.cs",
-              "RelativeToolTip": "Delegate\\CalcDelegate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Title": "ListExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\ListExtensions.cs",
+              "RelativeDocumentMoniker": "Delegate\\ListExtensions.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\ListExtensions.cs",
+              "RelativeToolTip": "Delegate\\ListExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T05:43:23.176Z",
+              "WhenOpened": "2024-08-27T08:19:47.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\Task.cs",
+              "RelativeDocumentMoniker": "Delegate\\Task.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\Task.cs",
+              "RelativeToolTip": "Delegate\\Task.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:09:25.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\Program.cs",
               "RelativeDocumentMoniker": "Delegate\\Program.cs",
               "ToolTip": "C:\\Users\\\u00DClvi\\Desktop\\BP102\\Delegate\\Delegate\\Program.cs",
               "RelativeToolTip": "Delegate\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAAAAAA",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAAALcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T05:34:07.965Z",
               "EditorCaption": ""
