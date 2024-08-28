@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.exe
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.deps.json
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.runtimeconfig.json
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.dll
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.pdb
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.sourcelink.json
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.dll
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\refint\Asynchronous.dll
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.pdb
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\BP102\Asynchronous\Asynchronous\obj\Debug\net6.0\ref\Asynchronous.dll
