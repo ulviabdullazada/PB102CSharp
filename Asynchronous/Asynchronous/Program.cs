@@ -109,3 +109,8 @@ static async Task SufreniHazirlaAsync()
     Console.WriteLine("Sufre hazirlandi");
 
 }
+static async Task<int> TestAsync()
+{
+    await SufreniHazirlaAsync();
+    return 1;
+}

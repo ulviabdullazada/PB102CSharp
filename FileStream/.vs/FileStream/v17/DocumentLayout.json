@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1455460-0D73-4557-AF0D-402CE208FD45}|FileStream\\FileStream.csproj|c:\\users\\\u00FClvi\\source\\repos\\filestream\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1455460-0D73-4557-AF0D-402CE208FD45}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1455460-0D73-4557-AF0D-402CE208FD45}|FileStream\\FileStream.csproj|c:\\users\\\u00FClvi\\source\\repos\\filestream\\filestream\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1455460-0D73-4557-AF0D-402CE208FD45}|FileStream\\FileStream.csproj|solutionrelative:filestream\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1455460-0D73-4557-AF0D-402CE208FD45}|FileStream\\FileStream.csproj|c:\\users\\\u00FClvi\\source\\repos\\filestream\\filestream\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1455460-0D73-4557-AF0D-402CE208FD45}|FileStream\\FileStream.csproj|solutionrelative:filestream\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1455460-0D73-4557-AF0D-402CE208FD45}|FileStream\\FileStream.csproj|c:\\users\\\u00FClvi\\source\\repos\\filestream\\filestream\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1455460-0D73-4557-AF0D-402CE208FD45}|FileStream\\FileStream.csproj|solutionrelative:filestream\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "students.json",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\FileStream\\students.json",
+              "RelativeDocumentMoniker": "FileStream\\students.json",
+              "ToolTip": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\FileStream\\students.json",
+              "RelativeToolTip": "FileStream\\students.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T06:46:37.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\FileStream\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "FileStream\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\FileStream\\Services\\StudentService.cs",
+              "RelativeToolTip": "FileStream\\Services\\StudentService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:40:20.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\FileStream\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "FileStream\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\FileStream\\Models\\Student.cs",
+              "RelativeToolTip": "FileStream\\Models\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:21:56.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\FileStream\\Program.cs",
+              "RelativeDocumentMoniker": "FileStream\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00DClvi\\source\\repos\\FileStream\\FileStream\\Program.cs",
+              "RelativeToolTip": "FileStream\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAUwE8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:35:31.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1480,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
